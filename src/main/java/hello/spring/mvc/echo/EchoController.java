@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class EchoController {
 
-    @ModelAttribute //test
+    @ModelAttribute //test12
     public EchoForm setUpEchoForm() {
         EchoForm form = new EchoForm();
         return form;
