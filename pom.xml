@@ -43,7 +43,7 @@
         <hibernate-validator.version>6.0.2.Final</hibernate-validator.version>
 
         <!-- H2 database -->
-        <h2.version>1.4.196</h2.version>
+        <h2.version>2.1.210</h2.version>
 
         <!-- Logging -->
         <logback.version>1.2.3</logback.version>
